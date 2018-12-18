@@ -16,7 +16,6 @@ def remove_non_strings(array)
 end
 
 def count_elements(array)
-<<<<<<< HEAD
   array.uniq.each do |ele|
     count=0
     array.each do |ele2|
@@ -67,8 +66,3 @@ my_hash = Hash.new {|h, k| h[k] = [] }
   end
   my_hash
 end
-
-=======
-  array.
-end
->>>>>>> ae431e84aebf6ce7e8b9c5fec34cb33f623e5068
